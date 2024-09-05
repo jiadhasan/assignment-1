@@ -276,4 +276,154 @@
     border: 1px solid color #0D1321;
     border-style: solid;
     padding: 50px;
-  }
+  } 
+  /*4th page*/
+ .title5{
+    color: #0D1321;
+    font-family: "Azeret Mono", monospace;
+    font-weight:700;
+    font-style: normal;
+    font-size: 32px;
+   color:#0D1321;
+   margin-top: 60px;
+
+ }
+ .description5{
+    color: #0D1321;
+    font-family: "Azeret Mono", monospace;
+    font-weight:30;
+   font-style: normal;
+   font-size: 12px;
+   margin-top: 25px; 
+   padding-left: 300px;
+   padding-right: 300px;
+   padding-bottom: 40px;
+ }
+ .alignment1{
+    justify-content: center;
+    text-align: center;
+ }
+ 
+ /*container 1*/
+ .concol1{
+    background-color: rgb(253, 241, 227);
+    border-radius: 8px;
+ }
+ .contitle{
+    color: #0D1321;
+    font-family: "Azeret Mono", monospace;
+    font-weight:600;
+    font-style: normal;
+    font-size: 25px;
+  
+ }
+ .condes{
+    color: #0D1321;
+    font-family: "Azeret Mono", monospace;
+    font-weight:30;
+   font-style: normal;
+   font-size: 12px; 
+ }
+ .conbtn{
+    border-style: none;
+    margin-top: 30px;
+    background-color: rgb(253, 241, 227);
+    color: #0D1321;
+    text-decoration:underline;
+    display:inline-block;
+    font-weight : bold ;
+
+ }
+ /*container 2*/
+ .concol2{
+    background-color:#F5F5F5;
+    border-radius: 8px;
+ }
+ .contitle1{
+    color: #0D1321;
+    font-family: "Azeret Mono", monospace;
+    font-weight:600;
+    font-style: normal;
+    font-size: 25px;
+  
+ }
+ .condes1{
+    color: #0D1321;
+    font-family: "Azeret Mono", monospace;
+    font-weight:30;
+   font-style: normal;
+   font-size: 12px; 
+ }
+ .conbtn{
+    
+    background-color:rgb(252, 247, 239);
+    background-color: Transparent;
+    
+}
+ 
+ /*container3*/
+ .concol3{
+    background-color:rgb(252, 247, 239);
+    border-radius: 8px;
+ }
+    .concol2{
+        background-color:#F5F5F5;
+     }
+     .contitle1{
+        color: #0D1321;
+        font-family: "Azeret Mono", monospace;
+        font-weight:600;
+        font-style: normal;
+        font-size: 25px;
+      
+     }
+     .condes1{
+        color: #0D1321;
+        font-family: "Azeret Mono", monospace;
+        font-weight:30;
+       font-style: normal;
+       font-size: 12px; 
+     }
+     .conbtn{
+        background-color: Transparent;
+        background-color:rgb(252, 247, 239);
+       
+ }
+ .contitle2{
+    color: #0D1321;
+    font-family: "Azeret Mono", monospace;
+    font-weight:600;
+    font-style: normal;
+    font-size: 25px;
+  
+ }
+ .condes2{
+    color: #0D1321;
+    font-family: "Azeret Mono", monospace;
+    font-weight:30;
+   font-style: normal;
+   font-size: 12px; 
+ }
+ .conbtn{
+    border-style: none;
+    color: #0D1321;
+    
+ }
+ 
+ .container{
+    display: flex;
+    justify-content: space-around;
+ }
+ .pad{
+    padding: 30px;
+ }
+ .padding{
+    padding-left: 125px;
+    padding-right: 125px;
+ }
+ .gap{
+    gap: 20px;
+ }
+ .secpad{
+    padding-top: 40px;
+ }
